@@ -1,0 +1,15 @@
+D:\Practice\Hashkart-v0.2\Hashkart.Infrastructure\obj\Debug\net8.0\Hashkart.Infrastructure.csproj.AssemblyReference.cache
+D:\Practice\Hashkart-v0.2\Hashkart.Infrastructure\obj\Debug\net8.0\Hashkart.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\Hashkart-v0.2\Hashkart.Infrastructure\obj\Debug\net8.0\Hashkart.Infrastructure.AssemblyInfoInputs.cache
+D:\Practice\Hashkart-v0.2\Hashkart.Infrastructure\obj\Debug\net8.0\Hashkart.Infrastructure.AssemblyInfo.cs
+D:\Practice\Hashkart-v0.2\Hashkart.Infrastructure\obj\Debug\net8.0\Hashkart.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Practice\Hashkart-v0.2\Hashkart.Infrastructure\bin\Debug\net8.0\Hashkart.Infrastructure.deps.json
+D:\Practice\Hashkart-v0.2\Hashkart.Infrastructure\bin\Debug\net8.0\Hashkart.Infrastructure.dll
+D:\Practice\Hashkart-v0.2\Hashkart.Infrastructure\bin\Debug\net8.0\Hashkart.Infrastructure.pdb
+D:\Practice\Hashkart-v0.2\Hashkart.Infrastructure\bin\Debug\net8.0\Hashkart.Domain.dll
+D:\Practice\Hashkart-v0.2\Hashkart.Infrastructure\bin\Debug\net8.0\Hashkart.Domain.pdb
+D:\Practice\Hashkart-v0.2\Hashkart.Infrastructure\obj\Debug\net8.0\Hashkart.C1ECC649.Up2Date
+D:\Practice\Hashkart-v0.2\Hashkart.Infrastructure\obj\Debug\net8.0\Hashkart.Infrastructure.dll
+D:\Practice\Hashkart-v0.2\Hashkart.Infrastructure\obj\Debug\net8.0\refint\Hashkart.Infrastructure.dll
+D:\Practice\Hashkart-v0.2\Hashkart.Infrastructure\obj\Debug\net8.0\Hashkart.Infrastructure.pdb
+D:\Practice\Hashkart-v0.2\Hashkart.Infrastructure\obj\Debug\net8.0\ref\Hashkart.Infrastructure.dll

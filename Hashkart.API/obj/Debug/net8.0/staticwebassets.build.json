@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hEmnLKzcOdwTUiJWsR6i6Lbgoaz4HkgXMMp0RzVABKk=",
+  "Source": "Hashkart.API",
+  "BasePath": "_content/Hashkart.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

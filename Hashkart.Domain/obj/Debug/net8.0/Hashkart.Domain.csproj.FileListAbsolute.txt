@@ -1,0 +1,11 @@
+D:\Practice\Hashkart-v0.2\Hashkart.Domain\bin\Debug\net8.0\Hashkart.Domain.deps.json
+D:\Practice\Hashkart-v0.2\Hashkart.Domain\bin\Debug\net8.0\Hashkart.Domain.dll
+D:\Practice\Hashkart-v0.2\Hashkart.Domain\bin\Debug\net8.0\Hashkart.Domain.pdb
+D:\Practice\Hashkart-v0.2\Hashkart.Domain\obj\Debug\net8.0\Hashkart.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\Hashkart-v0.2\Hashkart.Domain\obj\Debug\net8.0\Hashkart.Domain.AssemblyInfoInputs.cache
+D:\Practice\Hashkart-v0.2\Hashkart.Domain\obj\Debug\net8.0\Hashkart.Domain.AssemblyInfo.cs
+D:\Practice\Hashkart-v0.2\Hashkart.Domain\obj\Debug\net8.0\Hashkart.Domain.csproj.CoreCompileInputs.cache
+D:\Practice\Hashkart-v0.2\Hashkart.Domain\obj\Debug\net8.0\Hashkart.Domain.dll
+D:\Practice\Hashkart-v0.2\Hashkart.Domain\obj\Debug\net8.0\refint\Hashkart.Domain.dll
+D:\Practice\Hashkart-v0.2\Hashkart.Domain\obj\Debug\net8.0\Hashkart.Domain.pdb
+D:\Practice\Hashkart-v0.2\Hashkart.Domain\obj\Debug\net8.0\ref\Hashkart.Domain.dll
